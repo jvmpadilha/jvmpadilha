@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, eu sou o João Vitor</h1>
 <h3 align="center">Estudante de Sistemas de Informação</h3>
 
-- 🌱 Tenho estudado bastante **Html, CSS e Javascript**
+- 🌱 Tenho estudado bastante **Java, Html, CSS e Javascript**
 
 - 📫 Contato **joaovitormpadilha@gmail.com**
 
